@@ -1,0 +1,8 @@
+{
+  "name": "fotosokbeta",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "c073e070"
+}
